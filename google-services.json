@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "152667584901",
+    "firebase_url": "https://iroutepush.firebaseio.com",
+    "project_id": "iroutepush",
+    "storage_bucket": "iroutepush.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152667584901:android:b4158e54dc48e0fa07ecec",
+        "android_client_info": {
+          "package_name": "com.davidortega.iroutepush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152667584901-83mop8pke70anrvu11eiaban5jvu4ouf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNZB837sO0EMEkRY-048SzzvcPZBgRoi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152667584901-83mop8pke70anrvu11eiaban5jvu4ouf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

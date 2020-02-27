@@ -1,0 +1,23 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title color="success">
+      Notificaciones
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-header collapse="condense">
+    <ion-toolbar>
+      <ion-title size="large">Notificaciones Push</ion-title>
+      
+    </ion-toolbar>
+  </ion-header>
+
+  <div id="container">
+    <ion-button color="danger" routerLink='/lstnotificar'>N</ion-button>
+    <h1>Esta es la notificacion</h1>
+    <h2>Titulo: {{titulo}}</h2>
+    <h2>Cuerpo: {{cuerpo}}</h2>
+  </div>
+</ion-content>
